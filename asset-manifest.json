@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/exodus/static/css/main.9fce99ad.css",
+    "main.css": "/exodus/static/css/main.4b1034c5.css",
     "main.js": "/exodus/static/js/main.bb90f128.js",
     "static/js/787.e6f88aa1.chunk.js": "/exodus/static/js/787.e6f88aa1.chunk.js",
     "static/media/bgVid2.mp4": "/exodus/static/media/bgVid2.83dca18e1e2adf0e8ad5.mp4",
     "static/media/problemImage.png": "/exodus/static/media/problemImage.13c3de54dc8db02b35d7.png",
     "static/media/402-4027189_headshot-placeholder.jpg": "/exodus/static/media/402-4027189_headshot-placeholder.39fae80d0e84e28ebfa7.jpg",
     "index.html": "/exodus/index.html",
-    "main.9fce99ad.css.map": "/exodus/static/css/main.9fce99ad.css.map",
+    "main.4b1034c5.css.map": "/exodus/static/css/main.4b1034c5.css.map",
     "main.bb90f128.js.map": "/exodus/static/js/main.bb90f128.js.map",
     "787.e6f88aa1.chunk.js.map": "/exodus/static/js/787.e6f88aa1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fce99ad.css",
+    "static/css/main.4b1034c5.css",
     "static/js/main.bb90f128.js"
   ]
 }
